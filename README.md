@@ -6,9 +6,9 @@ Nesse projeto é criado uma API CRUD simulando uma listagem de filmes.
 
 Ferramentas usadas:
 
-Express
-MongoDB Atlas
-Winston
-Morgan
-Typescript
+Express |
+MongoDB Atlas |
+Winston |
+Morgan |
+Typescript |
 
